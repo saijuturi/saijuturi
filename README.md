@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saijuturi
+- 👋 Hi, I’m @subbujuturi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate  with any company which can give me an internship with stipends.
